@@ -1,0 +1,28 @@
+/* 
+
+     Author : Azhar Hussain
+     Email: azharhussain4647@gmail.com
+     Website:http://www.azharmasum.com
+     Facebook: https://www.facebook.com/azhar.hussainmasum
+*/
+
+/*------Below CSS  for Resposive multiple item---------*/
+.multilple .swiper-button-next{
+    background: none;
+    top: 40%;
+
+}
+.multilple .swiper-button-prev{
+    background: none;
+    top: 40%;
+}
+
+.multilple .fa-3x{
+    color: red;
+}
+.multilple .swiper-container{
+    padding-bottom:40px;
+}
+
+
+
