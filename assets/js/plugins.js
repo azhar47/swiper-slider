@@ -71,6 +71,7 @@ $(function () {
                 direction: 'horizontal',
                 loop: true,
                 effect: "cube",
+                speed: 800,
                 // If we need pagination
                 pagination: {
                     el: '.swiper-pagination',
